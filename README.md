@@ -39,6 +39,7 @@ Output waveform:
 
 <img width="1917" height="1077" alt="hdl_1_1 1" src="https://github.com/user-attachments/assets/8b994e50-e871-448d-a2f2-8f7cb00789d3" />
 
+
 <img width="1918" height="1078" alt="hdl_1_3 1" src="https://github.com/user-attachments/assets/56b4dec3-1759-4457-9a44-a2a6f92a69d9" />
 
 
