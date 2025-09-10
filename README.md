@@ -2,6 +2,7 @@ Exp-No: 02 - Write and simulate seven segment display using Verilog HDL and veri
 Aim:
 
   To design and simulate a Seven Segment using Verilog HDL and verify its functionality through a testbench using the Vivado 2023.1 simulation environment.
+  
 Apparatus Required:
 
   Vivado 2023.1
@@ -22,15 +23,19 @@ Close the Simulation Once done, by going to Simulation → "Close Simulation
 
 Input/Output Signal Diagram:
 
+
 RTL Code:
+
 <img width="1917" height="1078" alt="hdl_1_2 1" src="https://github.com/user-attachments/assets/1b8b6f7c-c0d1-4d6e-a47c-ba3bd2be70b3" />
 
 
 TestBench:
+
 <img width="1862" height="1077" alt="hdl_1_4 1" src="https://github.com/user-attachments/assets/2130603a-a5da-4ddb-9491-b855edf5c545" />
 
 
 Output waveform:
+
 <img width="1917" height="1077" alt="hdl_1_1 1" src="https://github.com/user-attachments/assets/8b994e50-e871-448d-a2f2-8f7cb00789d3" />
 
 <img width="1918" height="1078" alt="hdl_1_3 1" src="https://github.com/user-attachments/assets/56b4dec3-1759-4457-9a44-a2a6f92a69d9" />
