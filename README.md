@@ -22,20 +22,23 @@ Generate Simulation Report Once the simulation is complete, you can generate a s
 Save and Document Results Save your project by clicking File → Save Project. Take screenshots of the waveform window and include them in your lab report to document your results. You can include the timing diagram from the simulation window showing the correct functionality of the Seven Segment across different select inputs and data inputs.
 Close the Simulation Once done, by going to Simulation → "Close Simulation
 
-Input/Output Signal Diagram:
+# Input/Output Signal Diagram:
+
+ ![WhatsApp Image 2025-09-12 at 13 33 42_0ecc9b28](https://github.com/user-attachments/assets/3af86b86-8502-4d1a-a4c8-1e3353c0bcae)
 
 
-RTL Code:
+
+# RTL Code:
 
 <img width="1917" height="1078" alt="hdl_1_2 1" src="https://github.com/user-attachments/assets/1b8b6f7c-c0d1-4d6e-a47c-ba3bd2be70b3" />
 
 
-TestBench:
+# TestBench:
 
 <img width="1862" height="1077" alt="hdl_1_4 1" src="https://github.com/user-attachments/assets/2130603a-a5da-4ddb-9491-b855edf5c545" />
 
 
-Output waveform:
+# Output waveform:
 
 <img width="1917" height="1077" alt="hdl_1_1 1" src="https://github.com/user-attachments/assets/8b994e50-e871-448d-a2f2-8f7cb00789d3" />
 
@@ -43,6 +46,6 @@ Output waveform:
 <img width="1918" height="1078" alt="hdl_1_3 1" src="https://github.com/user-attachments/assets/56b4dec3-1759-4457-9a44-a2a6f92a69d9" />
 
 
-Conclusion:
+# Conclusion:
 
 In this experiment, a seven-segment display decoder was designed and simulated using Vivado 2023.1. The Verilog code was implemented to convert binary-coded decimal(BCD) inputs into appropriate segment controlsignals. The behavioral simulationverified that each digit (0–9) was correctly displayed by activating the correspondingsegments (a–g).Thus, the experiment successfully demonstrated the design and working of a sevensegment display using Verilog HDL and provided practical experience with synthesisand simulation in Vivado
